@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Antojitos Mexicanos</string>
+    <string name="barbacoa">Barbacoa</string>
+    <string name="enchiladas">Enchiladas</string>
+    <string name="cochinita_pibil">Cochinita pibil</string>
+    <string name="guacamole">Guacamole</string>
+    <string name="burritos">Burritos</string>
+    <string name="chiles_en_nogada">Chiles en nogada</string>
+    <string name="tamales">Tamales</string>
+    <string name="mole">Mole</string>
+    <string name="chilaquiles">Chilaquiles</string>
+    <string name="ensalada_cesar">Ensalada César</string>
+    <string name="aguachile">Aguachile</string>
+    <string name="tlayudas">Tlayudas</string>
+    <string name="chiles_rellenos">Chiles rellenos</string>
+    <string name="pozole">Pozole</string>
+    <string name="tortas">Tortas</string>
+    <string name="ceviche">Ceviche</string>
+    <string name="sopa_azteca">Sopa azteca</string>
+    <string name="mixiote">Mixiote</string>
+    <string name="quesadillas">Quesadillas</string>
+    <string name="tacos_al_pastor">Tacos al pastor</string>
+    <string name="machaca">Machaca</string>
+    <string name="bunuelo">Buñuelos</string>
+</resources>
